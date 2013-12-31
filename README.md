@@ -1,4 +1,4 @@
-$ mkdir ~/animation
+$ mkdir ~/funny-animation
 
 $ git init
 
