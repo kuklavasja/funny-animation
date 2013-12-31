@@ -1,4 +1,6 @@
-funny-animation
-===============
+$ mkdir ~/animation
 
-Cartoon heroes in mini-animation.
+$ git init
+
+$ touch README
+
